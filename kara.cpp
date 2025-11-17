@@ -16,5 +16,5 @@ long long karatsuba(long x, long y)
 }
 int main()
 {
-    cout << "Valor " << karatsuba(12000000000000000, 9) << endl;
+    cout << "Valor " << karatsuba(2, 9) << endl;
 }
